@@ -1,5 +1,4 @@
-<img width="1320" height="815" alt="Captura de tela 2026-06-26 222007" src="https://github.com/user-attachments/assets/a3979423-78f9-4010-8af5-6647f8c313ca" />
-<img width="1320" height="815" alt="Captura de tela 2026-06-26 222007" src="https://github.com/user-attachments/assets/997e8fe1-603f-4784-93b0-e816399a37ef" />
+
 # 🗄️ Banco de Dados
 
 Atividades e exercícios da disciplina de Banco de Dados.
