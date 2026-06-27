@@ -17,5 +17,4 @@ Atividades e projetos da disciplina de Arte Digital, explorando criação visual
 
 ## Cursos Acrecentais
 <img width="1320" height="820" alt="Captura de tela 2026-06-26 221200" src="https://github.com/user-attachments/assets/be147e65-d454-4596-8655-32ed3171a4b1" />
-**Link** — https://skills.yourlearning.ibm.com/certificate/share/e5cba900e8ewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDgyNTI0UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tMzc0OUM3MjExN0UyIgp9daa00b4f3a-10
-| [`banco-de-dados/`]([./banco-de-dados/](https://skills.yourlearning.ibm.com/certificate/share/e5cba900e8ewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDgyNTI0UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tMzc0OUM3MjExN0UyIgp9daa00b4f3a-10)) 
+**Link** — https://skills.yourlearning.ibm.com/certificate/share/e5cba900e8ewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDgyNTI0UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tMzc0OUM3MjExN0UyIgp9daa00b4f3a-1
