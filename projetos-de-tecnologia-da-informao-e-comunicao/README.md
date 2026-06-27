@@ -21,5 +21,6 @@ Atividades e projetos da disciplina de Projetos de TIC, abordando fundamentos do
 - Aplicações da TIC no cotidiano
 
 ## Cursos Acrecentais
+<img width="1321" height="816" alt="Captura de tela 2026-06-26 222508" src="https://github.com/user-attachments/assets/89b6f13b-422e-49a8-a52c-592d090f6472" />
 
-**Link** — 
+**Link** — https://skills.yourlearning.ibm.com/certificate/share/053c453df2ewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDgyNTI0UkVHIiwKICAib2JqZWN0SWQiIDogIlBMQU4tQjJERTVDOTI3RUVDIgp9f443bc4924-10
