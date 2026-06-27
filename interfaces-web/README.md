@@ -22,5 +22,5 @@ Atividades e projetos da disciplina de Interfaces Web, abordando HTML, CSS e fun
 - Publicação de sites (Netlify)
 
 ## Cursos Acrecentais
-
-**Link** — 
+<img width="1320" height="817" alt="Captura de tela 2026-06-26 222310" src="https://github.com/user-attachments/assets/ba917890-2b9c-4880-bf80-a77f0c641fff" />
+**Link** — https://skills.yourlearning.ibm.com/certificate/share/926a092b81ewogICJvYmplY3RJZCIgOiAiUExBTi04NzQ5QzAyQTc4RUMiLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDgyNTI0UkVHIgp916ed351052-10 
