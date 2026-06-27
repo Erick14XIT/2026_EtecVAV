@@ -19,3 +19,7 @@ Atividades e projetos da disciplina de Projetos de TIC, abordando fundamentos do
   - **Abstração** — focar no essencial, ignorar o irrelevante
   - **Algoritmo** — criar passo a passo para resolver o problema
 - Aplicações da TIC no cotidiano
+
+## Cursos Acrecentais
+
+**Link** — 
