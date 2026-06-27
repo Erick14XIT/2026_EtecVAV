@@ -25,3 +25,7 @@ Modelagem de banco de dados — diagramas de entidade-relacionamento (DER) de di
 - Modelagem de Entidade-Relacionamento (ER)
 - Identificação de entidades, atributos e relacionamentos
 - Cardinalidade entre entidades
+
+## Cursos Acrecentais
+
+**Link** — 
