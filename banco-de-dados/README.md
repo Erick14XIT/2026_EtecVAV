@@ -1,3 +1,5 @@
+<img width="1320" height="815" alt="Captura de tela 2026-06-26 222007" src="https://github.com/user-attachments/assets/a3979423-78f9-4010-8af5-6647f8c313ca" />
+<img width="1320" height="815" alt="Captura de tela 2026-06-26 222007" src="https://github.com/user-attachments/assets/997e8fe1-603f-4784-93b0-e816399a37ef" />
 # 🗄️ Banco de Dados
 
 Atividades e exercícios da disciplina de Banco de Dados.
@@ -27,5 +29,5 @@ Modelagem de banco de dados — diagramas de entidade-relacionamento (DER) de di
 - Cardinalidade entre entidades
 
 ## Cursos Acrecentais
-
-**Link** — 
+<img width="1320" height="815" alt="Captura de tela 2026-06-26 222007" src="https://github.com/user-attachments/assets/d472ce83-a4fa-4b09-9b94-9126f386ce8b" />
+**Link** — https://skills.yourlearning.ibm.com/certificate/share/8d84f765ebewogICJvYmplY3RJZCIgOiAiUExBTi0xNEYyNjkxRTNBMzIiLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDgyNTI0UkVHIgp9546b36347d-10
