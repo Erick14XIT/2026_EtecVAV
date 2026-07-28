@@ -1,4 +1,4 @@
-# 📚 2026 — ETEC / VAV
+# 📚 2026 — ETEC VAV
 
 Repositório de atividades e projetos desenvolvidos ao longo do ano letivo de 2026.
 
