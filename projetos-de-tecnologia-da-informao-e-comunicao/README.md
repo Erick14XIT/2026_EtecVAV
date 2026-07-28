@@ -1,4 +1,4 @@
-# 🖥️ Projetos de Tecnologia da Informação e Comunicação (TIC)
+# 🖥️ Projetos de Tecnologia da Informação e Comunicação (PTIC)
 
 Atividades e projetos da disciplina de Projetos de TIC, abordando fundamentos do pensamento computacional e aplicações tecnológicas.
 
